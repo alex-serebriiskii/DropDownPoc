@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alex\\Projects\\ComponentPlayground\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\gridtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\gridtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\mainpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\mainpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\dropdowntemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\dropdowntemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\collectionviewtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\collectionviewtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\dropdowntemplate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\dropdowntemplate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ComponentPlayground\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\dropdownmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\dropdownmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\absolutelayouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\absolutelayouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\dropdownmenubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\dropdownmenubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\menugridlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\menugridlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\defaultdropdownmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\defaultdropdownmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\menugridlayoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\menugridlayoutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\idropdownmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\idropdownmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|c:\\users\\alex\\projects\\componentplayground\\componentplayground\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{61B6AC5E-92B0-4CD8-8F04-122AFE8A9BA6}|ComponentPlayground\\ComponentPlayground.csproj|solutionrelative:componentplayground\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\Platforms\\Windows\\App.xaml",
+              "RelativeDocumentMoniker": "ComponentPlayground\\Platforms\\Windows\\App.xaml",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\Platforms\\Windows\\App.xaml",
+              "RelativeToolTip": "ComponentPlayground\\Platforms\\Windows\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T18:38:01.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DropdownTemplate.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\DropdownTemplate.xaml.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\DropdownTemplate.xaml.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\DropdownTemplate.xaml.cs",
+              "RelativeToolTip": "ComponentPlayground\\DropdownTemplate.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:54:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DropdownTemplate.xaml",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\DropdownTemplate.xaml",
+              "RelativeDocumentMoniker": "ComponentPlayground\\DropdownTemplate.xaml",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\DropdownTemplate.xaml",
+              "RelativeToolTip": "ComponentPlayground\\DropdownTemplate.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T14:53:43.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CollectionViewTest.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\CollectionViewTest.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\CollectionViewTest.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\CollectionViewTest.cs",
+              "RelativeToolTip": "ComponentPlayground\\CollectionViewTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:13:48.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "ComponentPlayground\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAEwEoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:27:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPageVm.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MainPageVm.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\MainPageVm.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MainPageVm.cs",
+              "RelativeToolTip": "ComponentPlayground\\MainPageVm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwE0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:45:02.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MainPage.xaml.cs",
+              "RelativeToolTip": "ComponentPlayground\\MainPage.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwEkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:29:23.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AbsoluteLayoutTest.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\AbsoluteLayoutTest.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\AbsoluteLayoutTest.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\AbsoluteLayoutTest.cs",
+              "RelativeToolTip": "ComponentPlayground\\AbsoluteLayoutTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:52:59.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridTest.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\GridTest.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\GridTest.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\GridTest.cs",
+              "RelativeToolTip": "ComponentPlayground\\GridTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwGUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:08:52.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MauiProgram.cs",
+              "RelativeToolTip": "ComponentPlayground\\MauiProgram.cs",
+              "ViewState": "AgIAAAkAAADgzMzMzEwjwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:23:33.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DefaultDropdownMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\DefaultDropdownMenuItem.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\DefaultDropdownMenuItem.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\DefaultDropdownMenuItem.cs",
+              "RelativeToolTip": "ComponentPlayground\\DefaultDropdownMenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:55:58.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DropdownMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\DropdownMenuItem.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\DropdownMenuItem.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\DropdownMenuItem.cs",
+              "RelativeToolTip": "ComponentPlayground\\DropdownMenuItem.cs",
+              "ViewState": "AgIAAAUAAADQ/////z8kwAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:44:50.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDropdownMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\IDropdownMenuItem.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\IDropdownMenuItem.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\IDropdownMenuItem.cs",
+              "RelativeToolTip": "ComponentPlayground\\IDropdownMenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:43:51.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuGridLayoutManager.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MenuGridLayoutManager.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\MenuGridLayoutManager.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MenuGridLayoutManager.cs",
+              "RelativeToolTip": "ComponentPlayground\\MenuGridLayoutManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:53:17.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuGridLayout.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MenuGridLayout.cs",
+              "RelativeDocumentMoniker": "ComponentPlayground\\MenuGridLayout.cs",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MenuGridLayout.cs",
+              "RelativeToolTip": "ComponentPlayground\\MenuGridLayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:48:52.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DropdownMenuBar.xaml",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\DropdownMenuBar.xaml",
+              "RelativeDocumentMoniker": "ComponentPlayground\\DropdownMenuBar.xaml",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\DropdownMenuBar.xaml",
+              "RelativeToolTip": "ComponentPlayground\\DropdownMenuBar.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T00:20:08.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ComponentPlayground\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\MainPage.xaml",
+              "RelativeToolTip": "ComponentPlayground\\MainPage.xaml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T01:06:13.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\App.xaml",
+              "RelativeDocumentMoniker": "ComponentPlayground\\App.xaml",
+              "ToolTip": "C:\\Users\\alex\\Projects\\ComponentPlayground\\ComponentPlayground\\App.xaml",
+              "RelativeToolTip": "ComponentPlayground\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T00:59:58.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
